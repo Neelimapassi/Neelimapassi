@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 graph TD
     A[Child's Age: 90 days to 12 years] --> B[Policy Term: 25 years - Entry Age]
     B --> C[Premium Payment Term: 20 years - Entry Age]
@@ -11,4 +11,4 @@ graph TD
     F --> I
     G --> I
     H --> I
-    I --> J[Additional Benefits:<br>Bonuses & Tax Benefits] '''
+    I --> J[Additional Benefits:<br>Bonuses & Tax Benefits] ```
