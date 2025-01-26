@@ -11,4 +11,4 @@ graph TD
     F --> I
     G --> I
     H --> I
-    I --> J[Additional Benefits:<br>Bonuses & Tax Benefits] ```
+    I --> J[Additional Benefits:<br>Bonuses & Tax Benefits]```
